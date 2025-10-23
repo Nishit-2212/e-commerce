@@ -1,0 +1,1 @@
+console.log("Fronted index.js loaded");
