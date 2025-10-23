@@ -1,6 +1,6 @@
-# E-Commerce (local development, no Docker)
+# E-Commerce
 
-This workspace contains a full-stack example: backend (Express + Prisma/Postgres + Mongo) and a frontend (Next.js + TypeScript + Tailwind). The project is intentionally configured for local development without Docker.
+This workspace contains a full-stack example: backend (Express/Postgres + Mongo) and a frontend (Next.js + Tailwind). The project is intentionally configured for local development.
 
 Quick start (Windows / PowerShell):
 
